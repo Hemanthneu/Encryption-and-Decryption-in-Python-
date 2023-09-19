@@ -12,14 +12,14 @@ Implement methods for encrypting and decrypting messages, ensuring secure commun
 Key Components of TranspositionCipher Class:
 
 Constructor Function:
-
 Accepts the cipher's key as an argument during initialization.
+
 Encryption Method:
-
 Encrypts a plaintext message using the specified key.
-Decryption Method:
 
+Decryption Method:
 Decrypts a ciphertext message using the provided key.
+
 Optional Challenge:
 
 As an additional challenge (though not mandatory for project completion), consider implementing a function outside the TranspositionCipher class. This function should be capable of hacking the columnar transposition cipher, enabling decryption of a ciphertext without prior knowledge of the key. The function should return both the decrypted message and the key used.
