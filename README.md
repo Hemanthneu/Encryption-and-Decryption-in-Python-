@@ -1,6 +1,5 @@
-# Encryption-and-Decryption-in-Python-
+# Implementing the Columnar Transposition Cipher
 
-Implementing the Columnar Transposition Cipher
 
 Welcome to the Encryption and Decryption in Python project! This repository focuses on the implementation of a TranspositionCipher class, a fundamental tool for encrypting and decrypting text using the columnar transposition cipher method. This project is a significant step towards contributing to the ongoing efforts to enhance data security and confidentiality in programming.
 
